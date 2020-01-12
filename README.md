@@ -1,2 +1,2 @@
 # bootcamp_code
-freecodecamp django course
+Implemented from freecodecamp django course
